@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JnmjyAgram
+- 👋 Hi, I’m Janmejay Yadav.
 - 👀 I’m interested in computer networking and programming.
-- 🌱 I’m currently learning front end development.
+- 🌱 I’m currently learning software engineering.
 - 📫 How to reach me > janmejay.yadav@agraminfotech.com
 
 <!---
